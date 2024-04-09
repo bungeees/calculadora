@@ -1,2 +1,2 @@
 # calculadora
-una sim,ple calculadora con C++
+una simple calculadora con C++
